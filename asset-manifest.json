@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eatingapp/static/css/main.987ea11c.chunk.css",
+    "main.js": "/eatingapp/static/js/main.9a7f3f5b.chunk.js",
+    "main.js.map": "/eatingapp/static/js/main.9a7f3f5b.chunk.js.map",
+    "runtime-main.js": "/eatingapp/static/js/runtime-main.a94460d7.js",
+    "runtime-main.js.map": "/eatingapp/static/js/runtime-main.a94460d7.js.map",
+    "static/js/2.264377a0.chunk.js": "/eatingapp/static/js/2.264377a0.chunk.js",
+    "static/js/2.264377a0.chunk.js.map": "/eatingapp/static/js/2.264377a0.chunk.js.map",
+    "index.html": "/eatingapp/index.html",
+    "static/css/main.987ea11c.chunk.css.map": "/eatingapp/static/css/main.987ea11c.chunk.css.map",
+    "static/js/2.264377a0.chunk.js.LICENSE.txt": "/eatingapp/static/js/2.264377a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a94460d7.js",
+    "static/js/2.264377a0.chunk.js",
+    "static/css/main.987ea11c.chunk.css",
+    "static/js/main.9a7f3f5b.chunk.js"
+  ]
+}
